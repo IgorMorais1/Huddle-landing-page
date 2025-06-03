@@ -10,7 +10,7 @@
 
 ## O desafio
 
-- O desafio era desenvolver uma página responsiva utilizando as ferramentas HTML e CSS e modelos de layout ccom o flexbox.
+- O desafio era desenvolver uma página responsiva utilizando as ferramentas HTML e CSS e modelos de layout como o flexbox.
 
 ![image](https://github.com/user-attachments/assets/18d9eb2f-9ca2-4fab-a73d-758eb695b7b8)
 
@@ -45,10 +45,7 @@ adequada, assim produzindo códigos reutilizáveis.
 - Também na comunidade do discord Dev em Dobro, onde encontrei apoio e exemplos para conseguir seguir meu projeto.
 
 ## Autor
-- Mentor de Frontend - @IgorMorais1
+- @IgorMorais1
 - Twitter - @Jaabi1ig
 
-## Agradecimentos
-
-Por fim, 
 
