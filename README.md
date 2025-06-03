@@ -1,26 +1,29 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-## Welcome! 👋
+## Bem vindo! 👋
 
 - Este foi um desafio do FrontEnd Mentor, onde visa o html e css como principais ferramentas.
 
 [Frontend Mentor](https://www.frontendmentor.io)
 
+# Visão geral
+
 ## O desafio
 
-- O desafio era desenvolver uma página responsiva utilizando as ferramentas HTML e CSS.
+- O desafio era desenvolver uma página responsiva utilizando as ferramentas HTML e CSS e modelos de layout ccom o flexbox.
 
 ![image](https://github.com/user-attachments/assets/18d9eb2f-9ca2-4fab-a73d-758eb695b7b8)
 
-## Meu processo
+# Meu processo
 
-- Marcação semântica HTML5
+## Construído com
 
-- Propriedades personalizadas CSS
+- HTML5
+
+- CSS
 
 - Flexbox
 
-- Grade CSS
 
 ## O que eu aprendi
 
@@ -39,7 +42,13 @@ adequada, assim produzindo códigos reutilizáveis.
 ## Recursos úteis
 
 - https://www.w3schools.com/html/html_css.asp 
-- Também na comunidade do Dev em Dobro, onde encontrei apoio e exemplos para conseguir seguir meu projeto.
+- Também na comunidade do discord Dev em Dobro, onde encontrei apoio e exemplos para conseguir seguir meu projeto.
 
+## Autor
+- Mentor de Frontend - @IgorMorais1
+- Twitter - @Jaabi1ig
 
+## Agradecimentos
+
+Por fim, 
 
