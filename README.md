@@ -35,7 +35,7 @@ não se comportaram da maneira que eu esperava, de qualquer forma foi uma experi
 
 ## Desenvolvimento contínuo
 
-Mesmo não sendo exatamente o resultado que eu desejava, fiquei feliz de conseguir chegar a esse resultado e me trouxe empolgação para novos desafios,
+Fiquei feliz de conseguir chegar a esse resultado e me trouxe empolgação para novos desafios,
 com certeza vou buscar melhorias para que consiga criar um código mais limpo e com o responsivo realmente da forma 
 adequada, assim produzindo códigos reutilizáveis.
 
