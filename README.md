@@ -14,13 +14,13 @@
 
 ## Meu processo
 
--Marcação semântica HTML5
+- Marcação semântica HTML5
 
--Propriedades personalizadas CSS
+- Propriedades personalizadas CSS
 
--Flexbox
+- Flexbox
 
--Grade CSS
+- Grade CSS
 
 ## O que eu aprendi
 
